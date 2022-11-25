@@ -1,0 +1,103 @@
+* {
+    color: black;
+}
+
+body {
+    background-color: yellow !important;
+    font-family: 'Roboto', sans-serif !important;
+}
+
+div#spSiteHeader {
+    background-color: black;
+    color: white;
+}
+
+div#spSiteHeader a {
+    color: white !important;
+}
+
+.css-85 {
+    font-size: 36px !important;
+    font-family: 'Roboto', sans-serif !important;
+}
+
+.root-154 {
+    background-color: white;
+    color: black !important;
+}
+
+
+
+.siteNavLink-74,
+.title-53 {
+    font-family: 'Roboto', sans-serif !important;
+}
+
+div.s_f_658c9e0a {
+    color: black !important;
+}
+
+div.mainHeader-246 {
+    background-color: black;
+    color: white !important;
+}
+
+div.mainHeader-246 a {
+    color: white !important;
+}
+
+a.ei_l_91bed31b.text_title-200.fa_l_91bed31b.b_l_91bed31b.ga_l_91bed31b {
+    color: black;
+    font-family: 'Roboto', sans-serif !important;
+}
+
+div.fc_l_91bed31b.text_description-201.b_l_91bed31b.ga_l_91bed31b {
+    color: black;
+    font-family: 'Roboto', sans-serif !important;
+}
+
+.jk_as_9f38462c.jl_as_9f38462c {
+    color: white !important;
+}
+
+.a_c_50a7110f.a_c_50a7110f.root-82.CanvasZone.row.CanvasZone--alignment.CanvasZone--noMargin.CanvasZone--read.CanvasZone--fullWidth.CanvasZone--fullWidth--read.b_c_50a7110f {
+    font-family: 'Roboto', sans-serif !important;
+}
+
+div.a_e_50a7110f.q_e_50a7110f.CanvasSection.CanvasSection-col.CanvasSection-sm12.CanvasSection--read.CanvasSection-xl12 {
+    background-color: #eee;
+}
+
+div.content-217 {
+    background-color: white;
+}
+
+div.thumbnail-223 {
+    background-color: white;
+}
+
+iframe {
+    padding: 20px;
+}
+
+div.simpleFooterContainer-134 {
+    background-color: white;
+    border-top: 3px solid #ccc;
+    padding: 10px 0 50px 0;
+}
+
+.thumbnail-699 {
+    margin: 0px;
+    flex: 0 0 auto;
+    align-self: center;
+    box-sizing: border-box;
+    width: 48px;
+    height: 48px;
+    position: relative;
+    border-radius: 2px;
+    overflow: hidden;
+    line-height: 48px;
+    text-align: center;
+    font-size: 26px;
+    background-color: white;
+}
